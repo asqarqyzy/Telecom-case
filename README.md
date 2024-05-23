@@ -1,2 +1,2 @@
-# Telecomunication company case
+# Telecommunication company case
 for github 
